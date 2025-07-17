@@ -1,5 +1,4 @@
 # DataScience-Salary-2020-2024
-# DataScience-Salary-2020-2024 - Salary Trends Analysis
 
 ## Overview  
 DataScience-Salary-2020-2024 is a data analysis project focused on understanding salary trends in the data science field from 2020 to 2024. The project explores how various factors such as job roles, experience levels, company size, location, and remote work type influence compensation. Insights derived from this project help both job seekers and businesses make informed decisions using real-world salary data.
